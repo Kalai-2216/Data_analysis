@@ -25,7 +25,7 @@ This is part of my Data Analyst learning journey, demonstrating Excel data clean
 - Data type: Match-level data
 - Key fields include: Year, Stage, Teams, Goals, Stadium, City, Attendance
 - 
-  ![Dashboard](excel_fifa_worldcup/WorldCupMatches.xlsx)
+  **[Dashboard](https://github.com/Kalai-2216/Data_analysis/blob/a6a5676454f70d48e47ed1c05b84268bde3311a4/excel_fifa_worldcup/WorldCupMatches.xlsx)**
 ## Skills and Tools Used
 
 - Microsoft Excel
