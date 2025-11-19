@@ -73,5 +73,5 @@ data_analysis/
 
 ## Dashboard Preview
 
--<a href="https://github.com/Kalai-2216/Data_analysis/blob/main/excel_fifa_worldcup/FIFA%20Dashboard.png"> Dashboard </a>
+-<a href="https://github.com/Kalai-2216/Data_analysis/blob/726a234652d0007d1abd48b925d5fa2ce94fc25d/excel_fifa_worldcup/FIFA%20Dashboard.png"> Dashboard </a>
 
