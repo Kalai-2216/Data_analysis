@@ -115,5 +115,3 @@ All measures were organized in a dedicated **Measures table**.
 
 ---
 
-## 📁 Repository Structure
-
