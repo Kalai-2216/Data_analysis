@@ -19,8 +19,8 @@ The goal of this project is to demonstrate **data modeling, DAX calculations, vi
 
 ## Dataset
 **Source:** Kaggle – IPL Dataset  
-- `matches.csv` – Match-level information  
-- `deliveries.csv` – Ball-by-ball data  
+- `matches.csv` – <a href="https://github.com/Kalai-2216/Data_analysis/blob/be42bca528335f15fde28467b74185dbb1dc9eb8/IPL%20%20Analysis/Assets/matches.csv">Dataset</a>  
+- `deliveries.csv` – <a href="https://github.com/Kalai-2216/Data_analysis/blob/be42bca528335f15fde28467b74185dbb1dc9eb8/IPL%20%20Analysis/Assets/deliveries.csv">Dataset</a>
 
 **Key Features:**
 - Match results and teams  
