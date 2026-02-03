@@ -18,16 +18,20 @@ The dataset contains product information such as category, price, discount, avai
 - Domain: Grocery / E-commerce (Zepto-like dataset)
 - Format: CSV file imported into MySQL
 - Table Name: zepto_products
-- Key fields include:
-  - category
-  - name
-  - mrp (Maximum Retail Price)
-  - discountedSellingPrice
-  - discountPercent
-  - availableQuantity
-  - outOfStock
-  - weightInGms
-  - quantity
+## Dataset Columns Description
+
+| Column Name | Description |
+|-------------|-------------|
+| Category | Product category such as Snacks, Beverages, Dairy, Personal Care, etc. |
+| name | Name of the product listed on the platform |
+| mrp | Maximum Retail Price of the product |
+| discountPercent | Discount percentage applied on the product |
+| availableQuantity | Number of units currently available in stock |
+| discountedSellingPrice | Final selling price after applying the discount |
+| weightInGms | Weight of the product in grams |
+| outOfStock | Stock status of the product (TRUE = out of stock, FALSE = in stock) |
+| quantity | Pack size or number of items per unit (for multi-pack products) |
+
  
    <a href="https://github.com/Kalai-2216/Data_analysis/blob/main/sql_zepto/Zepto_project.sql"> Dataset</a>
 
