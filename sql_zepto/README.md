@@ -33,7 +33,8 @@ The dataset contains product information such as category, price, discount, avai
 | quantity | Pack size or number of items per unit (for multi-pack products) |
 
  
-   <a href="https://github.com/Kalai-2216/Data_analysis/blob/main/sql_zepto/Zepto_project.sql"> Dataset</a>
+<a href="https://github.com/Kalai-2216/Data_analysis/blob/main/sql_zepto/Zepto_project.sql"> Sql File</a>
+<a href="https://github.com/Kalai-2216/Data_analysis/blob/9f136e135f9be2115179f7cc23fab24dd27b312c/sql_zepto/zepto_v2.csv"> CSV Dataset</a>
 
 data_analysis/
   
@@ -67,9 +68,8 @@ data_analysis/
 - Which category has the highest number of products?
 - Which categories have the highest stock availability?
 - Which products have the highest discount percentage?
-- What is the average MRP vs average discounted price by category?
+- What is the average discounted by category?
 - Which categories have the highest out-of-stock items?
-- What is the potential revenue if all stock is sold?
 
 ## Learning Outcomes
 
